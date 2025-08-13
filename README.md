@@ -46,5 +46,5 @@ Ye project PHP learners ke liye best example hai jo database ke saath kaam seekh
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/CodeWithYaseen/Crud-Operation.git
-   cd Crud-Operation
+   git clone https://github.com/CodeWithYaseen/Php-Crud-Operation.git
+   cd Php-Crud-Operation
